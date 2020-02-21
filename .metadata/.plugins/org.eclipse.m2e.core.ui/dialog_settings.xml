@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\ryewale\eclipse-workspace\springIOC\src\main\java\studentBean.xml"/>
+			<item value="C:\Users\ryewale\eclipse-workspace\first-spring-mvc"/>
+			<item value="D:\Localcode\Spring-Projects\rest-controller\src\main\java\com\rest\api\restcontroller\RestControllerApplication.java"/>
+			<item value="D:\Localcode\Spring-Data-Jpa"/>
+			<item value="D:\POC\poc\src\main\java\com\example\poc\MobileDriver.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.pluralsight.conference_java_app"/>
+		</list>
+		<list key="groupId">
+			<item value="com.pluralsight"/>
+		</list>
+		<list key="artifactId">
+			<item value="conference-java-app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\ryewale\eclipse-workspace\conference-java"/>
+			<item value="D:\All Git Projects"/>
+			<item value="D:\All Git Projects\Spring_Projects\Spring-Data-Jpa"/>
+			<item value="D:\Localcode\"/>
+			<item value="D:\Localcode\Spring-mvc"/>
+			<item value="D:\Localcode\Spring-Projects\first-spring-mvc"/>
+			<item value="C:\Users\ryewale\Downloads\spring-mvc"/>
+			<item value="D:\Localcode\Spring-Projects\"/>
+			<item value="D:\Localcode\Spring-Projects\course-api"/>
+			<item value="D:\Localcode\Spring-Projects\rest-controller"/>
+			<item value="D:\Localcode\Spring-Projects\Spring-Data-Jpa"/>
+			<item value="D:\Localcode\New folder\rest-controller"/>
+			<item value="D:\Localcode\New folder\spring-data-jpaEx"/>
+			<item value="D:\Localcode\New folder\spring-data-jpa"/>
+			<item value="D:\Localcode\Spring-Data-Jpa"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="first-spring-mvc"/>
+			<item value="FrontController"/>
+			<item value="Spring-mvc-frontcontroller"/>
+		</list>
+		<list key="name">
+			<item value="Spring-mvc-frontcontroller"/>
+		</list>
+		<list key="artifactId">
+			<item value="first-spring-mvc"/>
+			<item value="FrontController"/>
+			<item value="Spring-mvc-frontcontroller"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

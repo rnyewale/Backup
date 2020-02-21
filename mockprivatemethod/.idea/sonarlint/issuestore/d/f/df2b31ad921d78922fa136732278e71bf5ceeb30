@@ -1,0 +1,7 @@
+
+_squid:UnusedPrivateMethod"3Remove this unused private "getStudentById" method.(İË£8ÌèÛÊÔ-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8šºêÊÔ-
+Ksquid:S1172"-Remove this unused method parameter "rollNo".(İË£8¦šÛÊÔ-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8šºêÊÔ-
+bsquid:UnusedPrivateMethod"1Remove this unused private "getGradeById" method.(Äæ¢ùÿÿÿÿ8ÄÄáÊÔ-
+Lsquid:S1172")Remove this unused method parameter "id".(Äæ¢ùÿÿÿÿ8ÄÄáÊÔ-

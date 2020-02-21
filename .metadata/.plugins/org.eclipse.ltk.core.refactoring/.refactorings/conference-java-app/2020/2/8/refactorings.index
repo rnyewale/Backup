@@ -1,0 +1,7 @@
+1582202317335	Rename package 'com.pluralsight.conference_java_app'
+1582202698383	Rename package 'com.pluralsight.conference.model'
+1582202711650	Rename package 'com.pluralsight.conference'
+1582202725744	Delete element
+1582202748801	Delete element
+1582203121086	Extract interface 'SpeakerRepository'
+1582203518827	Extract interface 'SpeakerService'

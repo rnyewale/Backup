@@ -1,0 +1,6 @@
+
+osquid:UnusedPrivateMethod">Remove this unused private "getStudentPersonalDetails" method.(É×¤îúÿÿÿÿ8ˆÕùÑÒ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(—¾ó¹8ˆÕùÑÒ-
+Isquid:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8·ĞëÑÒ-
+Fsquid:S1068"(Remove this unused "name" private field.(Ë¥¼8·ĞëÑÒ-

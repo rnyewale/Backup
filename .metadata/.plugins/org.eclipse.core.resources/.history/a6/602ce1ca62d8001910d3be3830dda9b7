@@ -1,0 +1,10 @@
+package com.power.mock;
+
+import junit.framework.Test;
+
+public class Implementation {
+	
+	
+	TestApp app = new TestApp();
+	
+}

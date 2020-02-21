@@ -1,0 +1,8 @@
+com\powermock\manual\OnlyForPrivateMethod.class
+com\powermock\priv\method\UserService.class
+com\powermock\priv\method\PasswordEncoder.class
+com\powermock\priv\method\UserRepository.class
+com\powermock\manual\Student.class
+com\powermock\manual\StudentManager.class
+com\powermock\priv\method\User.class
+com\powermock\manual\StudentDriver.class

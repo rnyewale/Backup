@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;log4j2-spring.xml&apos; to &apos;social-media/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;Spring-Data-Jpa&apos;&#x0D;&#x0A;- Destination element: &apos;social-media/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;log4j2-spring.xml&apos;" description="Copy file" destination="=social-media/src\/main\/resources" element1="src/main/resources/log4j2-spring.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1582109007880" units="0" version="1.0"/>
+</session>

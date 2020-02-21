@@ -1,0 +1,86 @@
+{
+	"readContentProviderDBQueue": true,
+	"dbPageReadSize": 2000,
+	"noOfDbPageRuns": 1,
+	"providers": {
+		"c55343b9ab80486396fbbc0640e5de93": {
+			"name": "Gooru",
+			"userName": "GOORU_CLASSFLOW_ACCOUNT",
+			"sourceSystem": "GOORU",
+			"contentType": "URL",
+			"sortEnabled": true,
+			"diffEnabled": true,
+			"autoPublishItem": true,
+			"itemCsvVersion": "v2",
+			"bundleCsvVersion": "v1",
+			"targetTenantName": "localhost"
+		},
+		"191608b86b86412087ebcb6333d6673b": {
+			"name": "SketchFab",
+			"userName": "SKETCHFAB_CLASSFLOW_ACCOUNT",
+			"sourceSystem": "SKETCHFAB",
+			"contentType": "3DMODEL",
+			"sortEnabled": true,
+			"diffEnabled": true
+		},
+		"418d08d7b6394ff4a4e098e4c3075631": {
+			"name": "Phet",
+			"userName": "PHET_CLASSFLOW_ACCOUNT",
+			"sourceSystem": "PHET",
+			"contentType": "SIMULATION",
+			"sortEnabled": true,
+			"diffEnaled": true
+		},
+		"738c59c3c70f43589aefa35f389e4fcf": {
+			"name": "Desmos",
+			"userName": "DESMOS_CLASSFLOW_ACCOUNT",
+			"sourceSystem": "DESMOS",
+			"contentType": "GRAPH_CALCULATOR",
+			"sortEnabled": true,
+			"diffEnabled": true
+		},
+		"6bc82cf0aa4b26abdee4aeddd553d012": {
+			"name": "PrepMagic",
+			"userName": "PREPMAGIC_CLASSFLOW_ACCOUNT",
+			"sourceSystem": "PREPMAGIC",
+			"contentType": "SIMULATION",
+			"targetTenantName": "localhost",
+			"sortEnabled": true,
+			"diffEnabled": true,
+			"dbQueueEnabled": false,
+			"autoPublishItem": false,
+			"autoPublishBundle": true,
+			"itemCsvVersion": "v2",
+			"bundleCsvVersion": "v1"
+		},
+		"191608b86b86412087ebcb6333d6673b": {
+			"name": "SketchFab",
+			"userName": "SKETCHFAB_CLASSFLOW_ACCOUNT",
+			"sourceSystem": "SKETCHFAB",
+			"targetTenantName": "localhost",
+			"contentType": "URL",
+			"sortEnabled": true,
+			"diffEnabled": true,
+			"dbQueueEnabled": false,
+			"autoPublishItem": true,
+			"autoPublishBundle": true,
+			"itemCsvVersion": "v1",
+			"bundleCsvVersion": "v1"
+		},
+		"5273f456671d7bfaa7f98007b8ce16e1": {
+			"name": "FortunaPix",
+			"userName": "FORTUNAPIX_CLASSFLOW_ACCOUNT",
+			"sourceSystem": "FORTUNAPIX",
+			"contentType": "SIMULATION",
+			"targetTenantName": "localhost",
+			"sortEnabled": true,
+			"diffEnabled": true,
+			"dbQueueEnabled": true,
+			"autoPublishItem": false,
+			"autoPublishBundle": true,
+			"itemCsvVersion": "v1",
+			"bundleCsvVersion": "v1"
+		}
+	}
+
+}

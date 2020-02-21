@@ -1,0 +1,8 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿó´‘ûÿÿÿÿ8÷§«ÎÔ-
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(µ÷ê8Õ»¬ÌÔ-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€»Æ+8œÞÍÎÔ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(û²Þ°ûÿÿÿÿ8½æÂÌÔ-
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‡÷!8î¯¹ÌÔ-

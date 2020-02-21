@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+    http://www.springframework.org/schema/beans 
+    http://www.springframework.org/schema/beans/spring-beans-3.1.xsd">
+
+	<bean id="employee" class="com.constructor.injection.Employee">
+		<constructor-arg name="empName" value="Joss Buttler" />
+		<constructor-arg name="empCode" value="2411"
+			type="int" />
+	</bean>
+
+	<bean id="student" class="com.selenium.ioc.Student">
+		<property name="studName" value="Ram Yewale Patil"></property>
+		<property name="studId" value="2411"></property>
+	</bean>
+
+	<bean id="cheat" class="com.object.injection.StudentImplMathCheat">
+		<property name="mathCheat">
+			<bean class="com.object.injection.MathCheat" />
+		</property>
+	</bean>
+
+</beans>

@@ -1,0 +1,16 @@
+package com.power.mock;
+
+import junit.framework.Test;
+
+public class Implementation {
+	
+	
+	static TestApp app = new TestApp();
+	public static void testData() {
+		app.dispaly();
+	}
+	public static void main(String[] args) {
+		
+		testData();
+	}
+}

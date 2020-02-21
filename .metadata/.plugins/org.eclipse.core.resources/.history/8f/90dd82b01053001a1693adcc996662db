@@ -1,0 +1,21 @@
+package com.social.media.app;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+
+
+@SpringBootApplication
+@ComponentScan(basePackages = {"com"})
+public class SocialMediaApplication {
+
+	private static final Logger LOGGER = LogManager.getLogger(SocialMediaApplication.class);
+
+	public static void main(String[] args) {
+		SpringApplication.run(SocialMediaApplication.class, args);
+		LOGGER.debug("\n*************** Up & Running *************\n");
+	}
+
+}

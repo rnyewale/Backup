@@ -1,0 +1,3 @@
+com\powermock\priv\method\OnlyForPrivateMethodTest.class
+com\powermock\priv\method\UserServiceTest.class
+com\powermock\priv\method\StudentManagerTest.class
